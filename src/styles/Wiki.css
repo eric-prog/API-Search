@@ -1,0 +1,11 @@
+.wiki-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.wiki-item {
+    font-size: 1.5em;
+    text-align: left;
+    margin-top: 1vh;
+    margin-bottom: 2vh;
+}

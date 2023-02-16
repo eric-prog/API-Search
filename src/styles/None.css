@@ -1,0 +1,12 @@
+.none {
+    margin-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+}
+.nothing {
+    width: 50vh;
+    height: auto;
+}

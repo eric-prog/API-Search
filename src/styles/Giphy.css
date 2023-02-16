@@ -1,0 +1,24 @@
+.giphy-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 95%;
+}
+.gif-container {
+    width: 25%;
+    height: auto;
+    background-color: rgb(19, 19, 19);
+    margin: 1vh;
+    padding: 3vh;
+    border-radius: 15px;
+}
+.gif-link{
+    font-size: 1.5em;
+    color: rgb(229, 229, 229);
+}
+.gif-img {
+    margin-top: 3vh;
+    width: 100%;
+    height: auto;
+}
